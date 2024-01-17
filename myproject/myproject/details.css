@@ -1,0 +1,65 @@
+/* details.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+#gg{
+    font-size: larger;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.details-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex; /* Display as flex container to align items horizontally */
+}
+
+.details-card img {
+    height: min-content;
+    border-radius: 8px;
+    margin-right: 15px; /* Add margin to the right for spacing */
+}
+
+.details-card h2 {
+    margin-bottom: 10px;
+}
+
+.details-card p {
+    margin-bottom: 15px;
+}
+
+.details-back-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+body {
+    background-image: linear-gradient(rgb(0, 187, 255), rgb(0, 0, 0));
+}
