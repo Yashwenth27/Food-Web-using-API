@@ -24,8 +24,7 @@ Welcome to Recipe Explorer! This is a full-stack website developed using HTML, C
 
 1. Clone the repository to your local machine.
   
-    bash
-    git clone https://github.com/your-username/recipe-explorer.git
+    bash git clone https://github.com/Yashwenth27/Food-Web-using-API.git
     
 
 2. Open the index.html file in your web browser.
